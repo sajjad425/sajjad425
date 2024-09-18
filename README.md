@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on **Data Analytics & BI Engineer**
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:sqayyum425@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [Sajjad Qayyum - Resumes.pdf](https://github.com/user-attachments/files/17049603/Sajjad.Qayyum.-.Resumes.pdf)
+- 📫 How to reach me: [Gmail](mailto:sqayyum425@gmail.com)
+- 🧾 Check out my [Resume](https://github.com/user-attachments/files/17049603/Sajjad.Qayyum.-.Resumes.pdf)
 - ⚡ Fun fact: I write articles on Medium but have become too lazy to post lately.. 🤣
 
 <br>
