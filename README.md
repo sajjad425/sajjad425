@@ -37,27 +37,3 @@
 
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad425&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=sajjad425&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
-
-## 🚧 Open Source Projects
-
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/sajjad425/sajjad425.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/sajjad425/sajjad425.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/sajjad425/sajjad425.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sajjad425/sajjad425.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/sajjad425/sajjad425.me?style=flat-square"/></td>
-        </tr>
-    </tbody>
-</table>
-<br>
