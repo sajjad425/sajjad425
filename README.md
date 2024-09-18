@@ -37,3 +37,9 @@
 
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad425&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=sajjad425&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
+
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
