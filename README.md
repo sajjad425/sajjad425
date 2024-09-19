@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/sajjad425/sajjad425/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I’m currently working on **Data Analytics & BI Engineer**
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
+- 👯 I’m looking to collaborate on any Data Science related research project.
 - 💬 Ask me about anything related to the latest tech.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Gmail](mailto:sqayyum425@gmail.com)
