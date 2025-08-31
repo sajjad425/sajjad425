@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate on any Data Science related research project.
 - 💬 Ask me about anything related to the latest tech.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [Gmail](mailto:sqayyum425@gmail.com)
-- 🧾 Check out my [Sajjad Qayyum - Resume.pdf](https://github.com/user-attachments/files/22067959/Sajjad.Qayyum.-.Resume.pdf)
+- 📫 How to reach me: [Email](mailto:sqayyum425@gmail.com)
+- 🧾 Check out my [Resume.pdf](https://github.com/user-attachments/files/22067959/Sajjad.Qayyum.-.Resume.pdf)
 - ⚡ Fun fact: I write articles on Medium but have become too lazy to post lately.. 🤣
 
 <br>
