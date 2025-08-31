@@ -13,7 +13,7 @@
 - 💬 Ask me about anything related to the latest tech.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Email](mailto:sqayyum425@gmail.com)
-- 🧾 Check out my [Resume.pdf](https://github.com/user-attachments/files/22067959/Sajjad.Qayyum.-.Resume.pdf)
+- 🧾 Check out my [Resume](https://github.com/user-attachments/files/22067959/Sajjad.Qayyum.-.Resume.pdf)
 - ⚡ Fun fact: I write articles on Medium but have become too lazy to post lately.. 🤣
 
 <br>
