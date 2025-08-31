@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Sajjad Qayyum</h1>
 
-<h3 align="center">I'm skilled at gathering, organizing, and changing data to help with smart decision-making. I'm really good at using tools like MySQL, spreadsheets, Power BI, Python, and R for effective data analysis. I'm also great at communicating, staying organized, and analyzing information. Completed the Google Data Analytics Certificate a while ago-a rigorous, hands-on program that covers the entire scope of the data analysis process.</h3>
+<h3 align="center">I turn raw data into actionable insights that help drive smarter decisions. I’m experienced in using MySQL, Excel, Power BI, Python, and Tableau to analyze, visualize, and interpret data effectively. I combine technical skills with strong organization and communication to make complex information easy to understand. I’ve also completed the Google Data Analytics Certificate, a hands-on program that strengthened my ability to manage the entire data analysis process from start to finish.</h3>
 
 <br>
 
