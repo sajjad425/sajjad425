@@ -47,7 +47,7 @@ I am passionate about solving real-world business problems using data and contin
 - Building KPI reports for management  
 - Automating reporting workflows  
 
-### 🏦 Junior Data Analyst (Intern) – Dubai Islamic Bank  
+### 🏦 Data & BI Engineer (Intern) – Dubai Islamic Bank  
 - Worked in MIS & BI Engineering team  
 - Queried data using Oracle PL/SQL  
 - Developed BI reports in Power BI  
