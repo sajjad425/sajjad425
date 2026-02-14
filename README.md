@@ -10,14 +10,16 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajjad-qayyum/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sajjad%20Qayyum-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.datacamp.com/portfolio/cs201120" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/>
   </a>
-  <a href="https://github.com/sajjad425">
-    <img src="https://img.shields.io/badge/GitHub-sajjad425-black?style=for-the-badge&logo=github">
+  
+  <a href="https://www.linkedin.com/in/sajjad-qayyum/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sajjad%20Qayyum-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:sqayyum425@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  
+  <a href="mailto:sqayyum425@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sqayyum425%40gmail.com-green?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -45,12 +47,12 @@ I am passionate about solving real-world business problems using data and contin
 - Building KPI reports for management  
 - Automating reporting workflows  
 
-### 🏦 Data & BI Engineer (Intern) – Dubai Islamic Bank  
+### 🏦 Junior Data Analyst (Intern) – Dubai Islamic Bank  
 - Worked in MIS & BI Engineering team  
 - Queried data using Oracle PL/SQL  
 - Developed BI reports in Power BI  
 
-### 📊 Business Analyst (Intern) – Scitforte  
+### 📊 Business Analyst (Intern) – Scit Forte  
 - Assisted in requirement gathering  
 - Supported reporting and analytical tasks  
 
