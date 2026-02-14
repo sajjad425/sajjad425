@@ -1,45 +1,90 @@
-<h1 align="center">Hi there,👋 I'm Sajjad Qayyum</h1>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2E9EF7&height=200&section=header&text=Sajjad%20Qayyum&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<h3 align="center">I turn raw data into actionable insights that help drive smarter decisions. I’m experienced in using MySQL, Excel, Power BI, Python, and Tableau to analyze, visualize, and interpret data effectively. I combine technical skills with strong organization and communication to make complex information easy to understand. I’ve also completed the Google Data Analytics Certificate, a hands-on program that strengthened my ability to manage the entire data analysis process from start to finish.</h3>
-
-<br>
-
-## ⚡ A Few Quick Facts
-
-<img align="right" src="https://github.com/sajjad425/sajjad425/blob/master/gifs/octocat-anime.gif" />
-
-- 🔭 I’m currently working as a **Junior Analyst**
-- 👯 I’m looking to collaborate on any Data Science related research project.
-- 💬 Ask me about anything related to the latest tech.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: [Email](mailto:sqayyum425@gmail.com)
-- 🧾 Check out my [Resume](https://github.com/user-attachments/files/22067959/Sajjad.Qayyum.-.Resume.pdf)
-- ⚡ Fun fact: I write articles on Medium but have become too lazy to post lately.. 🤣
-
-<br>
-
-## 🛠️ Languages and Tools I use
-
-<p align="center"> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
-
-<br>
-
-## 📈 GitHub Contribution Graph
+<h2 align="center">📊 Data Analyst | Business Intelligence Developer</h2>
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad425&theme=minimal"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Power+BI+%7C+SQL+%7C+Python+%7C+ETL;Turning+Raw+Data+into+Actionable+Insights;Building+Dashboards+That+Drive+Business+Decisions;Open+to+Data+Analytics+Opportunities" />
 </div>
-<br>
 
-## 📊 GitHub Stats
-
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad425&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=sajjad425&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-<br>
-
-<!--END_SECTION:waka-->
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <a href="https://www.linkedin.com/in/sajjad-qayyum/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sajjad%20Qayyum-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/sajjad425">
+    <img src="https://img.shields.io/badge/GitHub-sajjad425-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:sqayyum425@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me  
+
+🎓 Bachelor's in Computer Science  
+📍 Based in Pakistan  
+📊 Junior Data Analyst with Business Intelligence experience  
+
+I specialize in transforming raw and complex datasets into meaningful dashboards and actionable insights.  
+
+With hands-on experience in **Power BI, SQL, Excel, Python, and ETL processes**, I build optimized data models, automate reporting workflows, and design KPI-driven dashboards that support business decision-making.
+
+I am passionate about solving real-world business problems using data and continuously improving my analytical and technical expertise.
+
+---
+
+## 💼 Professional Experience  
+
+### 🏢 Junior Data Analyst – Garibsons Pvt Ltd  
+- Developing advanced Power BI dashboards using DAX & Power Query  
+- Designing efficient data models  
+- Building KPI reports for management  
+- Automating reporting workflows  
+
+### 🏦 Data & BI Engineer (Intern) – Dubai Islamic Bank  
+- Worked in MIS & BI Engineering team  
+- Queried data using Oracle PL/SQL  
+- Developed BI reports in Power BI  
+
+### 📊 Business Analyst (Intern) – Scitforte  
+- Assisted in requirement gathering  
+- Supported reporting and analytical tasks  
+
+---
+
+## 🔥 What I'm Currently Working On  
+
+- Advanced Power BI dashboards with performance optimization  
+- SQL query tuning & relational database concepts  
+- Python-based data analysis & mini machine learning projects  
+- Improving ETL workflows  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 📊 Data & BI Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Professional Focus  
+
+I aim to build scalable and efficient data solutions that bridge the gap between raw data and strategic decision-making.  
+
+My focus is on delivering high-impact dashboards, improving reporting efficiency, and applying analytical thinking to solve business challenges. I am continuously learning and striving to grow into a senior-level data professional with strong expertise in business intelligence and analytics.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=120&section=footer" width="100%" />
